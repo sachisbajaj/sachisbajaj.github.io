@@ -6,7 +6,7 @@ description: Meet Sachi Bajaj, an MBA candidate at UC Berkeley Haas with strateg
 
 <section class="hero" aria-labelledby="home-title">
   <p class="eyebrow">Strategy · Finance · Operations</p>
-  <h1 id="home-title">Thoughtful strategy, grounded in data and shaped around people.</h1>
+  <h1 id="home-title">Strategic leader, grounded in data and shaped around people</h1>
   <p class="hero-copy">I’m Sachi Bajaj, an MBA candidate at UC Berkeley Haas with experience across sales strategy, retail finance, and operations at Google and Apple.</p>
   <div class="hero-actions">
     <a class="button-link" href="{{ '/work/' | relative_url }}">Explore my experience</a>
