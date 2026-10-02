@@ -1,0 +1,23 @@
+title: Sachi Bajaj
+description: Personal portfolio of Sachi Bajaj, MBA candidate at UC Berkeley Haas with experience in strategy, finance, and operations.
+url: "https://sachisbajaj.github.io"
+baseurl: ""
+linkedin_url: "https://www.linkedin.com/in/sachi-bajaj/"
+author:
+  name: Sachi Bajaj
+
+markdown: kramdown
+permalink: pretty
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - PLAN.md
+  - vendor
+  - .bundle
+  - .sass-cache

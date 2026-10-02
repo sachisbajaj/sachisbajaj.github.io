@@ -1,0 +1,14 @@
+<header class="site-header">
+  <div class="header-inner">
+    <a class="site-name" href="{{ '/' | relative_url }}" aria-label="Sachi Bajaj — Home">Sachi Bajaj<span class="site-name-mark" aria-hidden="true">.</span></a>
+    <nav aria-label="Primary navigation">
+      <ul class="nav-list">
+        {% for item in site.data.navigation %}
+          <li>
+            <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.label }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
+</header>
