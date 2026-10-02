@@ -197,6 +197,14 @@ p {
   line-height: 1.7;
 }
 
+.hero-photo {
+  display: block;
+  width: min(100%, 9rem);
+  height: auto;
+  margin: 1.55rem 0 0;
+  border-radius: 0.55rem;
+}
+
 .hero-actions {
   display: flex;
   flex-wrap: wrap;
