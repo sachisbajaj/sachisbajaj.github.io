@@ -1,1 +1,2 @@
 - [Portfolio privacy](portfolio-privacy.md) — Keep private contact details out of both public pages and Git commit metadata.
+- [Portfolio publishing scope](portfolio-publishing-scope.md) — Keep this as root-level static Jekyll for Pages; the user handles GitHub changes through Replit's Git panel.
