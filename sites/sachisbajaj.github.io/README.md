@@ -10,6 +10,10 @@ Static Jekyll site for [sachisbajaj.github.io](https://sachisbajaj.github.io), p
 - Edit `assets/css/main.css` for visual changes and `assets/favicon.svg` for the browser icon.
 - Keep private details out of this public site. The résumé's email address and phone number are intentionally not included.
 
+## Protect commit metadata
+
+Git commit author details are public in this repository. Before committing locally, set Git's author email to the GitHub-provided no-reply address shown under **Settings → Emails**, not a personal address.
+
 ## Preview locally
 
 Install Ruby and Bundler if needed, then run these commands from this directory:

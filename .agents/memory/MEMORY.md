@@ -1,0 +1,1 @@
+- [Portfolio privacy](portfolio-privacy.md) — Keep private contact details out of both public pages and Git commit metadata.
