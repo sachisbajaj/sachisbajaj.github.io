@@ -263,6 +263,10 @@ p {
   border-color: var(--accent);
 }
 
+.resume-download {
+  margin: 2rem 0 0;
+}
+
 .text-link,
 .section-link {
   font-weight: 650;
