@@ -31,8 +31,3 @@ description: Meet Sachi Bajaj, an MBA candidate at UC Berkeley Haas with strateg
   <p>My background spans strategic finance, sales planning, and operations. I have experience combining data analysis, financial modeling, and customer insights to help teams evaluate investments, plan product launches, and improve business performance. I’ve partnered with product marketing, supply, and operations teams to translate complex findings into clear recommendations for senior leaders and build frameworks that make planning and reporting more efficient. Across these experiences, I’ve developed an approach that connects detailed analysis with broader business priorities and brings people together to turn recommendations into action.</p>
   <p class="section-link"><a href="{{ '/work/' | relative_url }}">See my work experience <span aria-hidden="true">→</span></a></p>
 </section>
-
-<section class="home-note" aria-label="Current education">
-  <span class="note-mark" aria-hidden="true">S</span>
-  <p><strong>Currently:</strong> MBA candidate, UC Berkeley Haas School of Business · Class of 2027</p>
-</section>
