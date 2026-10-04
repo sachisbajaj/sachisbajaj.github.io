@@ -4,7 +4,7 @@ title: Work Experience
 heading: Work Experience
 description: Sachi Bajaj's strategy, finance, and operations experience at Google and Apple.
 eyebrow: Selected experience
-intro: Experience across sales strategy, retail investment, product planning, and corporate finance.
+intro: Before business school, I worked at Apple across corporate finance, iPhone sales strategy and planning, and retail real estate strategic finance. During my MBA, I interned in sales strategy and operations at Google.
 ---
 
 ## Google LLC
