@@ -46,3 +46,7 @@ intro: Experience across sales strategy, retail investment, product planning, an
 - **Refurbished sales:** Partnered with supply planning and sales teams on inventory, bid analysis, and third-party vendor negotiations to optimize the distributor strategy.
 - **Apple Music:** Evaluated the ROI of the lyrics feature using engagement data and built a Tableau dashboard to compare actual and forecasted spend across initiatives including marketing and original podcasts.
 - **Procurement:** Managed headcount planning for iPad and Apple Watch production during COVID-19 factory shutdowns, identified $200M in unpaid supplier rebates, and worked with vendors to recover the funds.
+
+<p class="resume-download">
+  <a class="button-link" href="{{ '/assets/resume/Sachi-Bajaj-Resume.pdf' | relative_url }}" download>Download résumé (PDF)</a>
+</p>
