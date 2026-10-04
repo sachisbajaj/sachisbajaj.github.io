@@ -4,7 +4,6 @@ title: About
 heading: About Sachi
 description: Learn about Sachi Bajaj's education, volunteer work, and interests.
 eyebrow: A little about me
-intro: My experience spans sales strategy and operations, retail real estate, iPhone planning, and corporate finance.
 ---
 
 ## Education
@@ -20,6 +19,6 @@ Concentrations in Finance and Management; minor in Psychology.
 
 ## Outside of work
 
-I volunteer as a Support Group Facilitator with the National Alliance on Mental Illness and serve as a Board Member at Home of Hope.
+I enjoy walking around and exploring different neighborhoods in San Francisco, trying new restaurants and recipes, listening to music by Billie Eilish, and watching Shark Tank.
 
-Some of my interests: Trader Joe’s recipes, *Shark Tank*, piano, Billie Eilish, musical films, and dim sum.
+I also have experience volunteering as a Support Group Facilitator with the National Alliance on Mental Illness and serving as a Young Professional Board Member for a nonprofit called Home of Hope.

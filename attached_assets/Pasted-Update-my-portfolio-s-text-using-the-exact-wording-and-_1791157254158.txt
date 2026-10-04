@@ -1,0 +1,66 @@
+Update my portfolio’s text using the exact wording and instructions below.
+
+Work only on the improve-copy-layout branch. Preserve the existing design, headshot, résumé download, navigation, and detailed work-experience entries. Replace existing content rather than adding duplicates.
+
+HOMEPAGE
+
+1. Remove the small line “STRATEGY · FINANCE · OPERATIONS”.
+
+2. Replace the main headline with:
+Hi, I’m Sachi.
+
+3. Replace the introductory paragraph with:
+I’m an MBA candidate at UC Berkeley Haas (class of 2027) with experience in finance and strategy across Big Tech companies.
+
+4. Place this tagline beneath the introduction:
+Turning data into better business decisions
+
+Style it as a supporting tagline, keeping “Hi, I’m Sachi.” as the main headline. Do not display quotation marks.
+
+5. Replace the “At a glance / Turning analysis into clear decisions” section with one heading:
+Highlights
+
+Under it, use this paragraph:
+My background spans strategic finance, sales planning, and operations. I have experience combining data analysis, financial modeling, and customer insights to help teams evaluate investments, plan product launches, and improve business performance. I’ve partnered with product marketing, supply, and operations teams to translate complex findings into clear recommendations for senior leaders and build frameworks that make planning and reporting more efficient. Across these experiences, I’ve developed an approach that connects detailed analysis with broader business priorities and brings people together to turn recommendations into action.
+
+If the section was previously changed to “Selected work” with three highlights, replace that version with the heading and paragraph above.
+
+6. Remove the highlighted box that says:
+Currently: MBA candidate, UC Berkeley Haas School of Business · Class of 2027
+
+Keep the résumé-download and navigation links.
+
+ABOUT PAGE
+
+1. Keep the “About Sachi” heading and the Education section.
+
+2. Remove the introductory sentence:
+My experience spans sales strategy and operations, retail real estate, iPhone planning, and corporate finance.
+
+Do not add a replacement introduction.
+
+3. Replace all existing text under “Outside of work” with these two paragraphs:
+
+I enjoy walking around and exploring different neighborhoods in San Francisco, trying new restaurants and recipes, listening to music by Billie Eilish, and watching Shark Tank.
+
+I also have experience volunteering as a Support Group Facilitator with the National Alliance on Mental Illness and serving as a Young Professional Board Member for a nonprofit called Home of Hope.
+
+WORK EXPERIENCE PAGE
+
+Keep the “Work Experience” heading. Directly below it, replace any existing introductory sentence with this paragraph:
+
+Before business school, I worked at Apple across corporate finance, iPhone sales strategy and planning, and retail real estate strategic finance. During my MBA, I interned in sales strategy and operations at Google.
+
+Style this as introductory body text, not a large heading.
+
+Preserve all employer names, roles, dates, accomplishment bullets, metrics, and résumé-download links below it.
+
+FINAL CHECKS
+
+- Use the supplied wording without rewriting it.
+- Remove any empty boxes or awkward gaps left by deleted content.
+- Check readability and spacing on desktop and mobile.
+- Verify that the headshot, navigation, and résumé download still work.
+- Preserve the static Jekyll structure and leave Change1.md and Change2.md unchanged.
+- Show me the result in Preview and summarize the changes.
+- Do not push, merge into main, or publish. I want to review this branch first.
